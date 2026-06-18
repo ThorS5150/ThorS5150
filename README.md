@@ -1,10 +1,11 @@
 # Thorsten Schädler
+M.Sc. Business Administration
 
-Business Manager mit Schwerpunkten in **Data Science**, **Data Analyse**, **Programmierung mit C#** und **Künstlicher Intelligenz**.
+Business Manager with a focus on **Data Science**, **Data Analysis**, **C# Programming**, and **Artificial Intelligence**.
 
-Willkommen in meinem GitHub-Portfolio. Hier findest du meine Projekte, Code-Beispiele und Ressourcen zu Data Science, Datenanalyse und KI-Lösungen.
+Welcome to my GitHub portfolio. Here you'll find my projects, code examples, and resources on Data Science, data analysis, and AI solutions.
 
-* **Aktualisierung Juni 2026:** Portfolio erweitert mit neuen Data Science und KI-Projekten.
+* **Update June 2026:** Portfolio expanded with new Data Science and AI projects.
 
 <div align="center">
     <a href="https://www.linkedin.com/in/thorsten-schaedler-4246b032/">
@@ -15,132 +16,104 @@ Willkommen in meinem GitHub-Portfolio. Hier findest du meine Projekte, Code-Beis
     </a>
 </div>
 
-## Inhaltsverzeichnis
+## Table of Contents
 
 * [Expertise](#expertise)
-* [Projektbereiche](#projektbereiche)
-* [Technologie-Stack](#technologie-stack)
-* [Aktuelle Projekte](#aktuelle-projekte)
+* [Project Areas](#project-areas)
+* [Technology Stack](#technology-stack)
+* [Current Projects](#current-projects)
 * [Status](#status)
-* [Kontakt](#kontakt)
+* [Contact](#contact)
 
 ## Expertise
 
-* **Data Science & Machine Learning:** Modellentwicklung, Vorhersagbarkeit, Feature Engineering
-* **Data Analyse:** Power BI, SQL, Python, umfassende Datenvisualisierung
-* **Programmierung:** C# (.NET Framework), Python, SQL
-* **Business Intelligence:** Datengesteuerte Entscheidungsfindung, Reporting
-* **KI & Automatisierung:** Implementierung von KI-Lösungen, Process Automation
+* **Data Science & Machine Learning:** Model development, predictive analytics, feature engineering
+* **Data Analysis:** Power BI, Tableau, SQL, Python/Pandas/Numpy, comprehensive data visualization with Matplotlib/Seaborn
+* **Programming:** C# (.NET Framework), Python, SQL
+* **Business Intelligence:** Data-driven decision making, reporting with Power BI and Tableau
+* **AI & Automation:** Implementation of AI solutions, process automation
 
-## Projektbereiche
+## Project Areas
 
-* 📊 **Data Science:** Machine Learning Modelle, Prognosen, Clustering
-* 📈 **Data Analyse:** Dashboards, Reports, Datenvisualisierung
-* 💻 **C# Entwicklung:** .NET Applications, Data Processing
-* 🤖 **KI & Automation:** LLM Integration, Automatisierte Workflows
-* 📚 **Ressourcen:** Tutorials, Code-Snippets, Best Practices
+* 📊 **Data Science:** Machine learning models, forecasting, clustering
+* 📈 **Data Analysis:** Dashboards, reports, data visualization
+* 💻 **C# Development:** .NET applications, data processing
+* 🤖 **AI & Automation:** LLM integration, automated workflows
+* 📚 **Resources:** Tutorials, code snippets, best practices
 
-| **Projekt** | **Beschreibung** | **Technologien** | **Status** |
+| **Project** | **Description** | **Technologies** | **Status** |
 | ----- | ----- | ----- | ----- |
-| [Data Science Fundamentals](./projects/data-science-101/) | Einführung in ML und Data Science | Python, Scikit-learn, Pandas | ✅ |
-| [Power BI Dashboards](./projects/power-bi/) | Business Intelligence & Visualisierung | Power BI, SQL, DAX | ✅ |
-| [C# Entwicklung](./projects/csharp/) | .NET Applications und Tools | C#, .NET Framework, Entity Framework | ✅ |
-| [KI Integration](./projects/ai-solutions/) | ChatGPT, Claude, LLM Integration | Python, OpenAI API, LLMs | 🔄 |
-| [SQL & Datenbanken](./projects/sql-databases/) | Query-Optimierung, Database Design | SQL Server, PostgreSQL, T-SQL | ✅ |
-| [Automatisierung](./projects/automation/) | Python-basierte Workflows | Python, RPA, Scripting | ✅ |
+| [Data Science Fundamentals](./projects/data-science-101/) | Introduction to ML and Data Science | Python, Scikit-learn, Pandas | ✅ |
+| [Power BI Dashboards](./projects/power-bi/) | Business Intelligence & Visualization | Power BI, SQL, DAX | ✅ |
+| [C# Development](./projects/csharp/) | .NET Applications and Tools | C#, .NET Framework, Entity Framework | ✅ |
+| [AI Integration](./projects/ai-solutions/) | ChatGPT, Claude, LLM Integration | Python, OpenAI API, LLMs | 🔄 |
+| [SQL & Databases](./projects/sql-databases/) | Query optimization, database design | SQL Server, PostgreSQL, T-SQL | ✅ |
+| [Automation](./projects/automation/) | Python-based workflows | Python, RPA, Scripting | ✅ |
 
-## Technologie-Stack
+## Technology Stack
 
-**Programmierung:**
-- C# (.NET Framework, .NET Core)
+**Programming:**
+- C# (.NET Framework)
 - Python (Data Science, Automation)
-- SQL (T-SQL, PL/pgSQL)
+- SQL
 
 **Data & Analytics:**
 - Power BI, Tableau
 - Pandas, NumPy, Scikit-learn
 - SQL Server, PostgreSQL
 
-**KI & Machine Learning:**
+**AI & Machine Learning/Deep Learning:**
 - OpenAI API, Claude
-- TensorFlow, PyTorch (Grundlagen)
+- TensorFlow, PyTorch
 - NLP, LLM Integration
 
-**Tools & Plattformen:**
+**Tools & Platforms:**
 - Jupyter Notebooks, Google Colab
 - Azure, Power BI, SAGE
 - Git, GitHub, VS Code
 
-## Aktuelle Projekte
+## Current Projects
 
 ### 1. Data Science & Analytics
-Praktische Projekte zur Datenanalyse und statistischen Modellierung. Schwerpunkt auf reproducible code und klare Dokumentation.
+Practical projects for data analysis and statistical modeling. Focus on reproducible code and clear documentation.
 
 ### 2. C# Business Applications
-Enterprise-Entwicklung mit C# und .NET Framework. Integration mit SQL Server und legacy Systems.
+Enterprise development with C# and .NET Framework. Integration with SQL Server and legacy systems.
 
-### 3. KI-Integration
-Implementierung von Large Language Models in bestehende Workflows. Prompt Engineering und API Integration.
+### 3. AI Integration
+Implementation of AI models in existing applications. Prompt engineering and API integration.
 
 ### 4. Reporting & Dashboards
-Power BI und SQL-basierte Business Intelligence Lösungen für Datengesteuerte Entscheidungen.
+Power BI, Tableau, and SQL-based business intelligence solutions for data-driven decision making.
 
 ## Status
 
-**Repository Status:** Aktiv in Entwicklung
+**Repository Status:** Actively in development
 
-* **Projekte:** 6+ aktive Repositories
-* **Dokumentation:** Vollständig für alle Hauptprojekte
-* **Code-Beispiele:** 50+
-* **Tutorials:** Fortlaufend aktualisiert
+* **Projects:** 
+* **Documentation:** 
+* **Code Examples:** 
+* **Tutorials:** 
 
-## Anforderungen
+3. **Work through code and experiment:**
+   - Modify code examples
+   - Run tests
+   - Create your own variations
 
-Für die meisten Projekte benötigst du:
+## Questions or Feedback?
 
-1. Python 3.8+ oder C# 8.0+
-2. Grundlegende SQL-Kenntnisse
-3. Vertrautheit mit Git und GitHub
-4. Ein beliebiger Code-Editor (VS Code, Visual Studio)
-
-Optional für KI-Projekte:
-- OpenAI API Key oder Claude API Key
-- Grundlegende NLP-Kenntnisse
-
-## Wie du die Projekte nutzt
-
-1. **Repository klonen:**
-   ```bash
-   git clone https://github.com/thorty/[project-name].git
-   cd [project-name]
-   ```
-
-2. **Abhängigkeiten installieren:**
-   ```bash
-   pip install -r requirements.txt  # Für Python
-   # oder
-   dotnet restore  # Für C#
-   ```
-
-3. **Code durcharbeiten und experimentieren:**
-   - Modifiziere die Code-Beispiele
-   - Führe Tests aus
-   - Erstelle deine eigenen Variationen
-
-## Fragen oder Feedback?
-
-* 📧 **E-Mail:** thorsten.schaedler@hotmail.com
+* 📧 **Email:** thorsten.schaedler@hotmail.com
 * 💼 **LinkedIn:** [thorsten-schaedler-4246b032](https://www.linkedin.com/in/thorsten-schaedler-4246b032/)
-* 💬 **GitHub Issues:** Öffne ein [Issue](https://github.com/thorty/repo/issues) für Bugs oder Fragen
+* 💬 **GitHub Issues:** Open an [issue](https://github.com/thorty/repo/issues) for bugs or questions
 
-## Update-Protokoll
+## Update Log
 
-* 18 Juni 2026 - GitHub Portfolio initialisiert
-* 15 Juni 2026 - Erste Projekt-Templates erstellt
-* 10 Juni 2026 - README und Dokumentation abgeschlossen
-* 5 Juni 2026 - Repository Setup und Struktur
-* 1 Juni 2026 - Portfolio-Start
+* June 18, 2026 - GitHub portfolio initialized
+* June 15, 2026 - First project templates created
+* June 10, 2026 - README and documentation completed
+* June 5, 2026 - Repository setup and structure
+* June 1, 2026 - Portfolio start
 
 ---
 
-Vielen Dank für dein Interesse! Fühle dich frei, die Projekte zu forken, Issues zu öffnen oder mich zu kontaktieren.
+Thank you for your interest! Feel free to fork projects, open issues, or contact me.
