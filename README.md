@@ -72,7 +72,7 @@ Welcome to my GitHub portfolio. Here you'll find my projects, code examples, and
 - Azure, Power BI, SAGE
 - Git, GitHub, VS Code
 
-## Current Projects
+## Former/Current Projects
 
 ### 1. Data Science & Analytics
 Practical projects for data analysis and statistical modeling. Focus on reproducible code and clear documentation.
