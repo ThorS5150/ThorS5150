@@ -46,7 +46,7 @@ Welcome to my GitHub portfolio. Here you'll find my projects, code examples, and
 | [Data Science Fundamentals](./projects/data-science-101/) | Introduction to ML and Data Science | Python, Scikit-learn, Pandas | ✅ |
 | [Power BI Dashboards](./projects/power-bi/) | Business Intelligence & Visualization | Power BI, SQL, DAX | ✅ |
 | [C# Development](./projects/csharp/) | .NET Applications and Tools | C#, .NET Framework, Entity Framework | ✅ |
-| [AI Integration](./projects/ai-solutions/) | ChatGPT, Claude, LLM Integration | Python, OpenAI API, LLMs | 🔄 |
+| [AI Integration](./projects/ai-solutions/) | Claude, LLM Integration | Python, LLMs | 🔄 |
 | [SQL & Databases](./projects/sql-databases/) | Query optimization, database design | SQL Server, PostgreSQL, T-SQL | ✅ |
 | [Automation](./projects/automation/) | Python-based workflows | Python, RPA, Scripting | ✅ |
 
@@ -63,13 +63,13 @@ Welcome to my GitHub portfolio. Here you'll find my projects, code examples, and
 - SQL Server, PostgreSQL
 
 **AI & Machine Learning/Deep Learning:**
-- OpenAI API, Claude
+- Claude
 - TensorFlow, PyTorch
 - NLP, LLM Integration
 
 **Tools & Platforms:**
 - Jupyter Notebooks, Google Colab
-- Azure, Power BI, SAGE
+- Azure, Power BI, Power Platforms, MS Fabric
 - Git, GitHub, VS Code
 
 ## Former/Current Projects
