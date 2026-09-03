@@ -43,12 +43,12 @@ Welcome to my GitHub portfolio. Here you'll find my projects, code examples, and
 
 | **Project** | **Description** | **Technologies** | **Status** |
 | ----- | ----- | ----- | ----- |
-| [Data Science Fundamentals](./projects/data-science-101/) | Introduction to ML and Data Science | Python, Scikit-learn, Pandas | ✅ |
-| [Power BI Dashboards](./projects/power-bi/) | Business Intelligence & Visualization | Power BI, SQL, DAX | ✅ |
+| [Data Science Fundamentals](./projects/data-science-101/) | Introduction to ML and Data Science | Python, Scikit-learn, Pandas | 🔄 |
+| [Power BI Dashboards](./projects/power-bi/) | Business Intelligence & Visualization | Power BI, SQL, DAX | 🔄 |
 | [C# Development](./projects/csharp/) | .NET Applications and Tools | C#, .NET Framework, Entity Framework | ✅ |
 | [AI Integration](./projects/ai-solutions/) | Claude, LLM Integration | Python, LLMs | 🔄 |
-| [SQL & Databases](./projects/sql-databases/) | Query optimization, database design | SQL Server, PostgreSQL, T-SQL | ✅ |
-| [Automation](./projects/automation/) | Python-based workflows | Python, RPA, Scripting | ✅ |
+| [SQL & Databases](./projects/sql-databases/) | Query optimization, database design | SQL Server, PostgreSQL, T-SQL | 🔄 |
+| [Automation](./projects/automation/) | Python-based workflows | Python, RPA, Scripting | 🔄 |
 
 ## Technology Stack
 
