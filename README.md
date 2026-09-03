@@ -45,10 +45,12 @@ Welcome to my GitHub portfolio. Here you'll find my projects, code examples, and
 | ----- | ----- | ----- | ----- |
 | [Data Science Fundamentals](./projects/data-science-101/) | Introduction to ML and Data Science | Python, Scikit-learn, Pandas | 🔄 |
 | [Power BI Dashboards](./projects/power-bi/) | Business Intelligence & Visualization | Power BI, SQL, DAX | 🔄 |
+| [Microsoft Fabric](./projects/fabric/) | Microsoft Fabric | Pipelines, DataFlows, Lakehouse, Warehouse, Eventhouse, Notebooks, Semantic Models  | 🔄 |
+| [Microsoft Power Platform](./projects/power-platform/) | Microsoft Power Platform | Power Automate, Power Apps, Copilot Studio, Power Pages, Power BI  | 🔄 |
 | [C# Development](./projects/csharp/) | .NET Applications and Tools | C#, .NET Framework, Entity Framework | ✅ |
 | [AI Integration](./projects/ai-solutions/) | Claude, LLM Integration | Python, LLMs | 🔄 |
 | [SQL & Databases](./projects/sql-databases/) | Query optimization, database design | SQL Server, PostgreSQL, T-SQL | 🔄 |
-| [Automation](./projects/automation/) | Python-based workflows | Python, RPA, Scripting | 🔄 |
+| [Automation](./projects/automation/) | Fabric and Python-based workflows | ML Model Python, RPA, Scripting | 🔄 |
 
 ## Technology Stack
 
@@ -67,10 +69,13 @@ Welcome to my GitHub portfolio. Here you'll find my projects, code examples, and
 - TensorFlow, PyTorch
 - NLP, LLM Integration
 
-**Tools & Platforms:**
-- Jupyter Notebooks, Google Colab
+**Tools, Platforms & Frameworks:**
+- Jupyter Notebooks, Google Colab, VS Code
 - Azure, Power BI, Power Platforms, MS Fabric
-- Git, GitHub, VS Code
+- Git, GitHub
+- Visual Studio
+- n8n
+- LangChain, LangGraph
 
 ## Former/Current Projects
 
