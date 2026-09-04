@@ -43,7 +43,7 @@ Welcome to my GitHub portfolio. Here you'll find my projects, code examples, and
 
 | **Project** | **Description** | **Technologies** | **Status** |
 | ----- | ----- | ----- | ----- |
-| [Data Science Fundamentals](../Fabric_PowerBI-Project) | Introduction to ML and Data Science | Python, Scikit-learn, Pandas | 🔄 |
+| [Data Science Fundamentals](https://github.com/ThorS5150/Fabric_PowerBI-Project) | Introduction to ML and Data Science | Python, Scikit-learn, Pandas | 🔄 |
 | [Power BI Dashboards](./projects/power-bi/) | Business Intelligence & Visualization | Power BI, SQL, DAX | 🔄 |
 | [Microsoft Fabric](./projects/fabric/) | Microsoft Fabric | Pipelines, DataFlows, Lakehouse, Warehouse, Eventhouse, Notebooks, Semantic Models  | 🔄 |
 | [Microsoft Power Platform](./projects/power-platform/) | Microsoft Power Platform | Power Automate, Power Apps, Copilot Studio, Power Pages, Power BI  | 🔄 |
